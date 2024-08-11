@@ -1,0 +1,20 @@
+/* BODY */
+body{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+/* Light Style de la letra roboto */
+.roboto_light{
+    font-weight: 300;
+}
+
+/* Regular Style de la letra roboto */
+.roboto_regular{
+    font-weight: 400;
+}
+
+/* Medium Style de la letra roboto */
+.roboto_medium{
+    font-weight: 500;
+}
