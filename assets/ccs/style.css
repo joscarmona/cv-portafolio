@@ -36,6 +36,10 @@ body{
     color: rgb(224, 221, 9);
 }
 
+header{
+    margin-top: 3.7rem;
+}
+
 header div{
     padding-left: 0.5rem;
     padding-right: 0.5rem;
@@ -49,3 +53,8 @@ header p{
 }
 
 /*************************************************************/
+
+/* SECTION ACERCA DE MI */
+#acerca-de-mi{
+    padding-top: 2rem;
+}
