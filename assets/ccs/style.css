@@ -3,6 +3,7 @@ body{
     font-family: "Roboto", sans-serif;
     font-style: normal;
 }
+/*************************************************************/
 
 /* Light Style de la letra roboto */
 .roboto_light{
@@ -18,3 +19,33 @@ body{
 .roboto_medium{
     font-weight: 500;
 }
+
+/* HEADER */
+#acerca-de-mi{
+    /* border: solid 4px red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(../image/bg-header.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 30vh;
+    color: rgb(224, 221, 9);
+}
+
+header div{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+}
+
+/* tag párrafo interno del header */
+header p{
+    font-size: xx-large;
+    margin: 0;
+}
+
+/*************************************************************/
