@@ -21,7 +21,7 @@ body{
 }
 
 /* HEADER */
-#acerca-de-mi{
+#bg-header{
     /* border: solid 4px red; */
     display: flex;
     justify-content: center;
