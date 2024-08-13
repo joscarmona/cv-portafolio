@@ -33,7 +33,7 @@ body{
     background-position: center;
     width: 100%;
     height: 30vh;
-    color: rgb(224, 221, 9);
+    color: rgb(226, 224, 69);
 }
 
 header{
@@ -56,5 +56,34 @@ header p{
 
 /* SECTION ACERCA DE MI */
 #acerca-de-mi{
+    /* border: solid 2px red; */
     padding-top: 2rem;
+    width: 95%;
 }
+/*************************************************************/
+
+/* SECTION ESTUDIOS */
+#estudios{
+    /* border: solid 2px green; */
+    padding-top: 2rem;
+    background-image: url(../image/bg-header.webp);
+    color: rgb(226, 224, 69);
+    width: 95%;
+    border-radius: 25px;
+}
+
+section ul{
+    padding: 0;
+    color: rgb(226, 224, 69);
+}
+
+section hr{
+    width: 90%; 
+    background-color:rgb(226, 224, 69);
+    border-color:rgb(226, 224, 69); 
+    margin:auto;
+    opacity: 1;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+} 
+/*************************************************************/
