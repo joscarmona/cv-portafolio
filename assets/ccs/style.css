@@ -58,3 +58,7 @@ header p{
 #acerca-de-mi{
     padding-top: 2rem;
 }
+/* FOOTER */
+.footer {
+    text-align: center;
+}
