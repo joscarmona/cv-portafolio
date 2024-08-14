@@ -78,14 +78,34 @@ section ul{
 }
 
 section hr{
-    width: 90%; 
+    width: 90%;
     background-color:rgb(226, 224, 69);
-    border-color:rgb(226, 224, 69); 
+    border-color:rgb(226, 224, 69);
     margin:auto;
     opacity: 1;
     margin-top: 1rem;
     margin-bottom: 1rem;
-} 
+}
+/*************************************************************/
+
+/* SECTION MIS PROYECTOS */
+#mis-proyectos{
+    /* border: solid 2px blueviolet; */
+    width: 75%;
+}
+
+.card-body-bg{
+    background-image: url(../image/bg-header.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(226, 224, 69);
+}
+
+.btn-color{
+    /* color: rgb(226, 224, 69); */
+    background-color: rgb(226, 224, 69);;
+}
 /*************************************************************/
 
 /* FOOTER */
