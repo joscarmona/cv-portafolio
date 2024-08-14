@@ -58,7 +58,7 @@ header p{
 #acerca-de-mi{
     /* border: solid 2px red; */
     padding-top: 2rem;
-    width: 95%;
+    width: 75%;
 }
 /*************************************************************/
 
@@ -68,7 +68,7 @@ header p{
     padding-top: 2rem;
     background-image: url(../image/bg-header.webp);
     color: rgb(226, 224, 69);
-    width: 95%;
+    width: 75%;
     border-radius: 25px;
 }
 
