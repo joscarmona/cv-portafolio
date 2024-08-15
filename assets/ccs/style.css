@@ -67,6 +67,9 @@ header p{
     /* border: solid 2px green; */
     padding-top: 2rem;
     background-image: url(../image/bg-header.webp);
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
     color: rgb(226, 224, 69);
     width: 75%;
     border-radius: 25px;
@@ -103,13 +106,27 @@ section hr{
 }
 
 .btn-color{
-    /* color: rgb(226, 224, 69); */
     background-color: rgb(226, 224, 69);;
 }
 /*************************************************************/
 
+/* SECTION CONTACTO */
+#contacto{
+    /* border: solid 2px chocolate; */
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    background-image: url(../image/bg-header.webp);
+    background-size: cover;
+    background-position: center;
+    color: rgb(226, 224, 69);
+    border-radius: 25px;
+    align-items: center;
+}
+/*************************************************************/
+
 /* FOOTER */
-.footer {
+footer {
     text-align: center;
 }
 /*************************************************************/
