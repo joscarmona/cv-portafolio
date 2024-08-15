@@ -127,7 +127,19 @@ section hr{
 
 /* FOOTER */
 footer {
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.box-redes{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1.5rem;
+    width: 75%;
+
 }
 
 .link-color{
