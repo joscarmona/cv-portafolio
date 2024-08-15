@@ -129,4 +129,12 @@ section hr{
 footer {
     text-align: center;
 }
+
+.link-color{
+    color: white;
+}
+
+.link-style:hover{
+    color: cadetblue;
+}
 /*************************************************************/
