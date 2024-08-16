@@ -99,7 +99,7 @@ section hr{
 }
 /*************************************************************/
 
-/* SECTION MIS PROYECTOS */
+/* SECTION PORTAFOLIO */
 #mis-proyectos{
     /* border: solid 2px blueviolet; */
     width: 75%;
@@ -113,8 +113,10 @@ section hr{
     color: rgb(226, 224, 69);
 }
 
+/* .btn-color:hover */
 .btn-color{
-    background-color: rgb(226, 224, 69);;
+    background-color: rgb(226, 224, 69);
+    
 }
 /*************************************************************/
 
