@@ -60,6 +60,14 @@ header p{
     padding-top: 2rem;
     width: 75%;
 }
+
+/* Prevenir que una palabra se salga de su contenedor */
+.break-word
+{
+    /* border: solid 2px blue; */
+    word-break: break-all;
+    /* hyphens: auto; */
+}
 /*************************************************************/
 
 /* SECTION ESTUDIOS */
