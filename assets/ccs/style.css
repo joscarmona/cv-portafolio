@@ -20,6 +20,14 @@ body{
     font-weight: 500;
 }
 
+/* NAV */
+.link-nav-hover:hover{
+    background-color: hsla(56, 82%, 50%, 0.5);
+    border-radius: 10%;
+    
+}
+/*************************************************************/
+
 /* HEADER */
 #bg-header{
     /* border: solid 4px red; */
